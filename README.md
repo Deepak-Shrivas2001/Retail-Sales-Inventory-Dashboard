@@ -14,7 +14,7 @@ An integrated retail analytics project designed to track monthly revenue against
 - **Visual Design:** Structured card layout with visual conditional formatting alerts for zero-inventory items.
 
 ## Dashboard Preview
-![Retail Dashboard](dashboard_preview.png)
+![Retail Dashboard](Retail_store_Dashborad.png)
 
 ## Key Insights & Findings
 1. **Top Performing Store:** Metro Appliances (South region) achieved the highest total revenue at **₹2,62,700**, exceeding its target of ₹2,50,000.
